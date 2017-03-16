@@ -6,7 +6,10 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'about',
   template: `
-    <h1>About This App</h1>
+<br>
+<br>
+<br>
+    <h1>ng2-bootstrap about!</h1>
     `,
 })
 export class AboutComponent  {
